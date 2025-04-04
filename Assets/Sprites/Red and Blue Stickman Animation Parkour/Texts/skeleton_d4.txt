@@ -1,0 +1,55 @@
+{
+"skeleton": { "hash": "QGDFBSs5U0nrd9VpS8Wo12Y+b5k", "spine": "3.8.99", "x": -68.5, "y": 0.17, "width": 137, "height": 147.84 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "spin", "parent": "root", "y": 74.67 },
+	{ "name": "icon_wheel3", "parent": "root", "rotation": 0.08, "y": 147.03 }
+],
+"slots": [
+	{ "name": "icon_wheel1", "bone": "root", "attachment": "icon_wheel1" },
+	{ "name": "icon_wheel2", "bone": "spin", "attachment": "icon_wheel2" },
+	{ "name": "icon_wheel3", "bone": "icon_wheel3", "attachment": "icon_wheel3" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"icon_wheel1": {
+				"icon_wheel1": { "y": 71.67, "width": 137, "height": 143 }
+			},
+			"icon_wheel2": {
+				"icon_wheel2": { "width": 106, "height": 106 }
+			},
+			"icon_wheel3": {
+				"icon_wheel3": { "y": -18.05, "width": 33, "height": 38 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"bones": {
+			"spin": {
+				"rotate": [
+					{ "angle": 2.2 },
+					{ "time": 0.3333, "angle": -90 },
+					{ "time": 0.6667, "angle": 180 },
+					{ "time": 1, "angle": 90 },
+					{ "time": 1.3333, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.5, "angle": 2.2 }
+				]
+			},
+			"icon_wheel3": {
+				"rotate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3333, "angle": 9.2, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "angle": 9.24, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "curve": "stepped" },
+					{ "time": 1.5 }
+				]
+			}
+		}
+	}
+}
+}

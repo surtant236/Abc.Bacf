@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 256646bd6eba47d99378cba8c6100fb2
+timeCreated: 1631093490
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "dirtyheadline"
+  fontNames:
+  - Dirty Headline
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

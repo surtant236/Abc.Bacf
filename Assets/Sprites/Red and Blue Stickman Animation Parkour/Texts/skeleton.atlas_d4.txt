@@ -1,0 +1,20 @@
+
+skeleton.png
+size: 259,194
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_arena
+  rotate: false
+  xy: 2, 2
+  size: 199, 190
+  orig: 199, 190
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 203, 24
+  size: 54, 168
+  orig: 54, 168
+  offset: 0, 0
+  index: -1

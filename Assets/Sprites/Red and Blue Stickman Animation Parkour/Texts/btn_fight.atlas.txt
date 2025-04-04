@@ -1,0 +1,27 @@
+
+btn_fight.png
+size: 436,429
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FIGHT
+  rotate: false
+  xy: 2, 57
+  size: 165, 51
+  orig: 165, 51
+  offset: 0, 0
+  index: -1
+Group 1 copy (merged) copy
+  rotate: false
+  xy: 289, 2
+  size: 145, 425
+  orig: 145, 425
+  offset: 0, 0
+  index: -1
+Group 3 copy (merged)
+  rotate: false
+  xy: 2, 110
+  size: 285, 317
+  orig: 285, 317
+  offset: 0, 0
+  index: -1

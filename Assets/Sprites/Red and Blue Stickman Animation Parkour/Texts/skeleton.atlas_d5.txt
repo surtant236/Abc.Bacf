@@ -1,0 +1,104 @@
+
+skeleton.png
+size: 1041,311
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B0/arm_fake
+  rotate: false
+  xy: 904, 89
+  size: 72, 220
+  orig: 72, 220
+  offset: 0, 0
+  index: -1
+B0/arn_1
+  rotate: true
+  xy: 666, 64
+  size: 44, 192
+  orig: 44, 192
+  offset: 0, 0
+  index: -1
+B0/body
+  rotate: true
+  xy: 310, 2
+  size: 28, 132
+  orig: 28, 132
+  offset: 0, 0
+  index: -1
+B0/body_fake
+  rotate: false
+  xy: 978, 149
+  size: 56, 160
+  orig: 56, 160
+  offset: 0, 0
+  index: -1
+B0/foot
+  rotate: false
+  xy: 590, 24
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+B0/foot_fake
+  rotate: false
+  xy: 590, 53
+  size: 74, 55
+  orig: 74, 55
+  offset: 0, 0
+  index: -1
+B0/head
+  rotate: true
+  xy: 310, 32
+  size: 277, 278
+  orig: 277, 278
+  offset: 0, 0
+  index: -1
+B0/head_fake
+  rotate: true
+  xy: 2, 4
+  size: 305, 306
+  orig: 305, 306
+  offset: 0, 0
+  index: -1
+B0/leg1
+  rotate: false
+  xy: 1014, 28
+  size: 25, 119
+  orig: 25, 119
+  offset: 0, 0
+  index: -1
+B0/leg1_fake
+  rotate: true
+  xy: 666, 9
+  size: 53, 147
+  orig: 53, 147
+  offset: 0, 0
+  index: -1
+B0/leg2
+  rotate: true
+  xy: 444, 5
+  size: 25, 119
+  orig: 25, 119
+  offset: 0, 0
+  index: -1
+B0/leg2_fake
+  rotate: true
+  xy: 815, 9
+  size: 53, 147
+  orig: 53, 147
+  offset: 0, 0
+  index: -1
+panel
+  rotate: false
+  xy: 590, 110
+  size: 312, 199
+  orig: 312, 199
+  offset: 0, 0
+  index: -1
+tele copy 2
+  rotate: false
+  xy: 978, 4
+  size: 34, 143
+  orig: 34, 143
+  offset: 0, 0
+  index: -1

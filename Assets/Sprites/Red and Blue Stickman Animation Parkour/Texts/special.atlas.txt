@@ -1,0 +1,111 @@
+
+special.png
+size: 676,235
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 15
+  rotate: false
+  xy: 578, 23
+  size: 96, 44
+  orig: 98, 46
+  offset: 1, 1
+  index: -1
+Rectangle 2 copy 5
+  rotate: false
+  xy: 468, 123
+  size: 174, 36
+  orig: 176, 38
+  offset: 1, 1
+  index: -1
+Shape 1
+  rotate: false
+  xy: 635, 85
+  size: 36, 36
+  orig: 38, 38
+  offset: 1, 1
+  index: -1
+arm
+  rotate: false
+  xy: 468, 161
+  size: 38, 72
+  orig: 40, 74
+  offset: 1, 1
+  index: -1
+b
+  rotate: false
+  xy: 334, 7
+  size: 102, 101
+  orig: 105, 103
+  offset: 2, 1
+  index: -1
+back
+  rotate: false
+  xy: 508, 167
+  size: 138, 66
+  orig: 140, 68
+  offset: 1, 1
+  index: -1
+clock
+  rotate: false
+  xy: 578, 69
+  size: 55, 52
+  orig: 57, 54
+  offset: 1, 1
+  index: -1
+coin
+  rotate: false
+  xy: 354, 121
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+front
+  rotate: false
+  xy: 438, 9
+  size: 138, 110
+  orig: 140, 112
+  offset: 1, 1
+  index: -1
+g
+  rotate: false
+  xy: 229, 7
+  size: 103, 101
+  orig: 105, 103
+  offset: 1, 1
+  index: -1
+icon_removeads
+  rotate: false
+  xy: 229, 110
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+kim1
+  rotate: false
+  xy: 578, 2
+  size: 8, 19
+  orig: 10, 21
+  offset: 1, 1
+  index: -1
+kim2
+  rotate: false
+  xy: 354, 112
+  size: 14, 7
+  orig: 16, 9
+  offset: 1, 1
+  index: -1
+mid
+  rotate: false
+  xy: 2, 2
+  size: 5, 4
+  orig: 7, 6
+  offset: 1, 1
+  index: -1
+reward_light copy
+  rotate: false
+  xy: 2, 8
+  size: 225, 225
+  orig: 230, 230
+  offset: 3, 3
+  index: -1

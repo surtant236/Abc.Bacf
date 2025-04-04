@@ -1,0 +1,13 @@
+
+tutorial can gat.png
+size: 183,50
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shape
+  rotate: false
+  xy: 2, 2
+  size: 179, 46
+  orig: 179, 46
+  offset: 0, 0
+  index: -1

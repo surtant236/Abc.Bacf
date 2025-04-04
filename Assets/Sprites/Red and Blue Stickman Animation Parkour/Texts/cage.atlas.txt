@@ -1,0 +1,76 @@
+
+cage.png
+size: 253,492
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back3
+  rotate: false
+  xy: 2, 58
+  size: 116, 173
+  orig: 118, 175
+  offset: 1, 1
+  index: -1
+coc
+  rotate: false
+  xy: 120, 58
+  size: 67, 173
+  orig: 69, 175
+  offset: 1, 1
+  index: -1
+front
+  rotate: false
+  xy: 2, 233
+  size: 185, 257
+  orig: 187, 259
+  offset: 1, 1
+  index: -1
+leaf1
+  rotate: false
+  xy: 59, 28
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+leaf2
+  rotate: false
+  xy: 221, 102
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+leaf3
+  rotate: false
+  xy: 2, 14
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+leaf4
+  rotate: false
+  xy: 26, 25
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+leo1
+  rotate: false
+  xy: 189, 138
+  size: 30, 352
+  orig: 30, 352
+  offset: 0, 0
+  index: -1
+leo2
+  rotate: false
+  xy: 189, 2
+  size: 30, 134
+  orig: 30, 134
+  offset: 0, 0
+  index: -1
+leo3
+  rotate: false
+  xy: 221, 138
+  size: 30, 352
+  orig: 30, 352
+  offset: 0, 0
+  index: -1

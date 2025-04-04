@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_wheel1
+  rotate: false
+  xy: 2, 2
+  size: 137, 143
+  orig: 137, 143
+  offset: 0, 0
+  index: -1
+icon_wheel2
+  rotate: false
+  xy: 37, 147
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+icon_wheel3
+  rotate: false
+  xy: 2, 215
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,87 @@
+{
+"skeleton": { "hash": "6UHV44ygRA3pUm2n6+M3VMbhea0", "spine": "3.8.99", "x": -95.74, "y": -33.17, "width": 210.19, "height": 168.64 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "card_icon", "parent": "root", "rotation": 13.76, "x": -4.01, "y": 1.98 },
+	{ "name": "card_icon2", "parent": "root", "rotation": -13.77, "x": 2.14, "y": 1.98 },
+	{ "name": "card_icon3", "parent": "root", "rotation": -47.4, "x": 0.34, "y": 1.98 }
+],
+"slots": [
+	{ "name": "card_icon3", "bone": "card_icon3", "attachment": "card_icon" },
+	{ "name": "card_icon2", "bone": "card_icon2", "attachment": "card_icon" },
+	{ "name": "card_icon", "bone": "card_icon", "attachment": "card_icon" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"card_icon": {
+				"card_icon": { "x": -14.16, "y": 54.6, "width": 101, "height": 134 }
+			},
+			"card_icon2": {
+				"card_icon": { "x": -14.16, "y": 54.6, "width": 101, "height": 134 }
+			},
+			"card_icon3": {
+				"card_icon": { "x": -14.16, "y": 54.6, "width": 101, "height": 134 }
+			}
+		}
+	}
+],
+"animations": {
+	"icon_card": {
+		"bones": {
+			"card_icon3": {
+				"rotate": [
+					{ "angle": 34, "curve": 0.463, "c3": 0.866, "c4": 0.41 },
+					{ "time": 0.1667, "angle": -5.18, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3333, "angle": 13.84, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "angle": -0.06, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "angle": 13.84, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": -0.06, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.6667, "angle": 13.84, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2, "angle": -0.06, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.3333, "angle": 13.84, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "angle": -0.06, "curve": 0.25, "c3": 0.75 },
+					{ "time": 3, "angle": 13.84, "curve": 0.25, "c3": 0.75 },
+					{ "time": 3.3333, "angle": -4, "curve": 0.463, "c3": 0.866, "c4": 0.41 },
+					{ "time": 3.5, "angle": 34 }
+				]
+			},
+			"card_icon2": {
+				"rotate": [
+					{ "angle": 0.09, "curve": 0.463, "c3": 0.866, "c4": 0.41 },
+					{ "time": 0.1667, "angle": -1.27, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3333, "angle": 5.17, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "angle": -0.06, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "angle": 5.17, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": -0.06, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.6667, "angle": 5.17, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2, "angle": -0.06, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.3333, "angle": 5.17, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "angle": -0.06, "curve": 0.25, "c3": 0.75 },
+					{ "time": 3, "angle": 5.17, "curve": 0.25, "c3": 0.75 },
+					{ "time": 3.3333, "angle": -4.3, "curve": 0.463, "c3": 0.866, "c4": 0.41 },
+					{ "time": 3.5, "angle": 0.09 }
+				]
+			},
+			"card_icon": {
+				"rotate": [
+					{ "angle": -27.88, "curve": 0.463, "c3": 0.866, "c4": 0.41 },
+					{ "time": 0.1667, "angle": 3.2, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.3333, "angle": -13.46, "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "angle": -0.06, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "angle": -13.46, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": -0.06, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.6667, "angle": -13.46, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2, "angle": -0.06, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.3333, "angle": -13.46, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "angle": -0.06, "curve": 0.25, "c3": 0.75 },
+					{ "time": 3, "angle": -13.46, "curve": 0.25, "c3": 0.75 },
+					{ "time": 3.3333, "angle": 4.53, "curve": 0.463, "c3": 0.866, "c4": 0.41 },
+					{ "time": 3.5, "angle": -27.88 }
+				]
+			}
+		}
+	}
+}
+}
